@@ -27,7 +27,7 @@ https://grisez.alwaysdata.net/cooking/index.html
 ## Langages 
 
 <img alt="html5" title="html5" loading="lazy" src=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg /><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg /><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg />
-<img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/angular/angular-ar21.svg /><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/php/php-horizontal.svg /><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg /><img alt="figma" title="figma" loading="figma" src=https://www.vectorlogo.zone/logos/figma/figma-ar21.svg /><img alt="sql" title="sql" loading="sql" src=https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg />
+<img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/angular/angular-ar21.svg /><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/php/php-horizontal.svg /><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg /><img alt="figma" title="figma" loading="figma" src=https://www.vectorlogo.zone/logos/figma/figma-ar21.svg /><img alt="sql" title="sql" loading="sql" src=https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg width = 12% />
 
 ## Détails  
 
