@@ -18,6 +18,11 @@ C'est de pouvoir travailler de ma passion qui m'anime chaque jour, pour une moye
 
 *Dans le cadre de ma formation je cherche un stage du 17 Juillet au 13 Septembre 2023.*
 *Envie d'en savoir davantage sur moi ? Je reste connectée pour en discuter, échanger 🙂* 
+
+## Mes projets : 
+https://lnkd.in/dWwe7dAX
+
+https://grisez.alwaysdata.net/cooking/index.html
  
 ## Langages 
 
