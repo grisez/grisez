@@ -20,7 +20,7 @@ C'est de pouvoir travailler de ma passion qui m'anime chaque jour, pour une moye
 *Envie d'en savoir davantage sur moi ? Je reste connectée pour en discuter, échanger 🙂* 
 
 ## Mes projets : 
-https://lnkd.in/dWwe7dAX
+https://recrute1developpeur.github.io/
 
 https://grisez.alwaysdata.net/cooking/index.html
  
