@@ -1,4 +1,4 @@
-# Bonjour everyone 👋  
+# Bonjour everyone <img src="kirby_dance (5).gif"alt="emoji"><img>  
 Moi c'est Cindy Grisez voici mon profil github 
 
 ##Info 
