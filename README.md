@@ -1,5 +1,5 @@
-# Bonjour everyone <img alt="kirby dance retro game" title="kirby dance retro game" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643515233/12510/kirby_dance.gif?1643515233" width= "40"/> 
-Moi c'est Cindy Grisez, voici mon profil github 
+# Bonjour everyone <img alt="growlithe pokemon" title="growlithe pokemon" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643517239/32779/growlithe.gif?1643517239" width ="40"> 
+Moi c'est Cindy Grisez, je suis développeuse web et web mobile.
 
 ## Info  
 
@@ -8,7 +8,7 @@ C’est pour cette raison que je viens, après avoir travaillé 5 ans dans le se
 
 ## Mon objectif ?  
  
-C'est de pouvoir travailler de ma passion qui m'anime chaque jour, pour une moyenne entreprise qui intègre le développement durable dans ça politique d'entreprise , ainsi que des valeurs telles que la communication, l'entraide mais aussi prendre en compte le savoir être. 
+C'est de pouvoir travailler de ma passion qui m'anime chaque jour, pour une moyenne entreprise qui intègre le développement durable dans ça politique d'entreprise <img alt="chikorita pokemon" title="chikorita pokemon" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643517236/32748/chikorita.gif?1643517236" width= "20"> , ainsi que des valeurs telles que la communication, l'entraide mais aussi prendre en compte le savoir être. 
 
 ## Mes valeurs importantes  
 
