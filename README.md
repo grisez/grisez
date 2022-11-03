@@ -24,6 +24,7 @@ C'est de pouvoir travailler de ma passion qui m'anime chaque jour, pour une moye
 <img alt="html5" title="html5" loading="lazy" src=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg /><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg /><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg />
 <img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/angular/angular-ar21.svg /><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/php/php-horizontal.svg /><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg />
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grisez&show_icons=true&locale=en&layout=compact" alt="grisez"/></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grisez&show_icons=true&locale=en" alt="grisez" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f4cte" alt="grisez" /></p>
 
