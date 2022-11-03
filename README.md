@@ -1,4 +1,4 @@
-# Bonjour everyone <img alt="kirby dance retro game" title="kirby dance retro game" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643515233/12510/kirby_dance.gif?1643515233"> 
+# Bonjour everyone <img alt="kirby dance retro game" title="kirby dance retro game" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643515233/12510/kirby_dance.gif?1643515233" width= "40"/> 
 Moi c'est Cindy Grisez voici mon profil github 
 
 ##Info 
