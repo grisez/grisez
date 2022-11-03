@@ -37,8 +37,10 @@ https://grisez.alwaysdata.net/cooking/index.html
 
 <h3 align="center">Me contacter:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/cindy-grisez-d%C3%A9veloppeur-web/"  align="center" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cindygrisez" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/cindy-grisez-developpeur-web/"  align="center" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cindygrisez" height="30" width="40"/></a>  
 
+<p align="center">
+<a href="mailto:grisezcindy+github@gmail.com"   align="center" target="blank"><img align="center"  src="https://img.icons8.com/color/512/circled-envelope.png" alt="cindygrisez" width="60"></a>
 
 
 
