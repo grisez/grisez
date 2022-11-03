@@ -16,9 +16,9 @@ C'est de pouvoir travailler de ma passion qui m'anime chaque jour, pour une moye
 - La communication
 - L’entraide.
 
-* Dans le cadre de ma formation je cherche un stage du 17 Juillet au 13 Septembre 2023.
-Envie d'en savoir davantage sur moi ? Je reste connectée pour en discuter, échanger 🙂 
-*  
+*Dans le cadre de ma formation je cherche un stage du 17 Juillet au 13 Septembre 2023.*
+*Envie d'en savoir davantage sur moi ? Je reste connectée pour en discuter, échanger 🙂* 
+ 
 
 
 
