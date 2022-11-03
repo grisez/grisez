@@ -10,7 +10,7 @@ C’est pour cette raison que je viens, après avoir travaillé 5 ans dans le se
  
 C'est de pouvoir travailler de ma passion qui m'anime chaque jour, pour une moyenne entreprise qui intègre le développement durable dans ça politique d'entreprise <img alt="chikorita pokemon" title="chikorita pokemon" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643517236/32748/chikorita.gif?1643517236" width= "20"> , ainsi que des valeurs telles que la communication, l'entraide mais aussi prendre en compte le savoir être. 
 
-## Mes valeurs importantes  
+## Mes valeurs importantes 
 
 - Le savoir être
 - La communication
@@ -19,7 +19,7 @@ C'est de pouvoir travailler de ma passion qui m'anime chaque jour, pour une moye
 *Dans le cadre de ma formation je cherche un stage du 17 Juillet au 13 Septembre 2023.*
 *Envie d'en savoir davantage sur moi ? Je reste connectée pour en discuter, échanger 🙂* 
  
-## Langages :
+## Langages 
 
 <img alt="html5" title="html5" loading="lazy" src=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg /><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg /><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg />
 <img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/angular/angular-ar21.svg /><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/php/php-horizontal.svg /><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg />
