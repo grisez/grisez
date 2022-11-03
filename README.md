@@ -21,13 +21,8 @@ C'est de pouvoir travailler de ma passion qui m'anime chaque jour, pour une moye
  
 ### Langages et outils que je vais apprendrs lors de la formation
 
-<img alt="html5" title="html5" loading="lazy" src=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg width= "20"/>
-<img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg width= "20"/>
-<img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg width= "20"/>
-<img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/angular/angular-ar21.svg width= "20"/>
-<img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/php/php-horizontal.svg width= "20"/>
-<img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg width= "20"/>
-<img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg width= "20"/>
+<img alt="html5" title="html5" loading="lazy" src=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg width= "50"/><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg width= "50"/><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg width= "20"/>
+<img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/angular/angular-ar21.svg width= "50"/><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/php/php-horizontal.svg width= "50"/><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg width= "50"/><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg width= "50"/>
 
 
 
