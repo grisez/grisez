@@ -18,7 +18,7 @@ Lors de ma dernière expérience dans le domaine textile, avant de m’orienter 
 
 - Aisance relationnelle : Interaction avec des équipes variées et partenaires internationaux, favorisant une communication fluide et adaptée aux besoins métier
 
--Créativité et organisation : Conception de solutions sur mesure et organisation d’initiatives stratégiques pour répondre aux attentes des utilisateurs
+- Créativité et organisation : Conception de solutions sur mesure et organisation d’initiatives stratégiques pour répondre aux attentes des utilisateurs
 
 🌼 Mes valeurs :
 - Rigueur et précision 
