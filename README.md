@@ -42,11 +42,11 @@ Contactez moi sur LinkedIn 🙂
 - Base de données : SQL ( Oracle, PostgreSQL, MySQL), Liquibase
 - API : Déploiement et gestion d'API REST
 
-## Outil / Logiciel / Ide :
+## Outil, Logiciel, Ide :
 - Docker, Sonar, Postman, Swagger, Jira, Confluence, Vscode, Intellij, Eclipse
 
 ## Autres : 
-- Git (Github / GitLab), méthode agile, cycle en V
+- Git (Github, GitLab), méthode agile, cycle en V
 
 ## Détails  
 
