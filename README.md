@@ -28,9 +28,7 @@ Lors de ma dernière expérience dans le domaine textile, avant de m’orienter 
 ❤️ En dehors du code :
 Passionnée de couture, dessin vectoriel et randonnée, je trouve de l’inspiration dans la nature et l’art pour nourrir ma créativité
 
-Envie de collaborer avec une développeuse engagée et méthodique ? 🐝
-Contactez moi sur LinkedIn 🙂
- 
+
 ## Compétences Techniques :
 ### Front-end  
 - Technologies : Angular, Rxjs,  Javascript, Jquery, Prime NG, FullCalendar, D3Js, Ajax
