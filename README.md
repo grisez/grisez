@@ -1,4 +1,4 @@
-# Bonjour everyone <img alt="growlithe pokemon" title="growlithe pokemon" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643517239/32779/growlithe.gif?1643517239" width ="40"> 
+# Bonjour everyone 🐝 
 Moi c'est Cindy Grisez, je suis développeuse Java Angular
 
 ## Info  
