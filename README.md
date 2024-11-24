@@ -6,7 +6,7 @@ Développeuse applicative Java/Angular, à l’image de l’abeille 🐝 : méth
 
 👩 Ancienne développeuse produit textile, j’ai découvert une passion pour l’informatisation et l’optimisation des processus. En tant que cheffe de produit, j'ai digitalisé des systèmes de production et optimisé des processus manuels.
 
-Ma dernière expérience avant ma reconversion, où je n'ai pas pu mettre en place le système d'informatisation de la gamme produit, m'a permis de prendre conscience que ma véritable vocation se trouve derrière un ordinateur, à développer et améliorer des systèmes pour rendre les opérations plus fluides et efficaces.
+Lors de ma dernière expérience dans le domaine textile, avant de m’orienter vers le développement applicatif, je n’ai pas pu mettre en place le système d’informatisation de la gamme produit, comme cela était initialement prévu. Cette situation m’a amenée à réfléchir sur ce que j’aimais réellement dans mon travail, et j’ai réalisé que ma véritable passion réside dans la création et l’amélioration de systèmes informatiques, en étant directement derrière un ordinateur pour concevoir des solutions efficaces et innovantes.
 
 💡Ce que je vous apporte grâce à mes expériences : 
 
