@@ -1,33 +1,52 @@
 # Bonjour everyone <img alt="growlithe pokemon" title="growlithe pokemon" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643517239/32779/growlithe.gif?1643517239" width ="40"> 
-Moi c'est Cindy Grisez, je suis développeuse web et web mobile.
+Moi c'est Cindy Grisez, je suis développeuse Java Angular
 
 ## Info  
+Développeuse applicative Java/Angular, à l’image de l’abeille 🐝 : méthodique, collaborative et toujours en quête de solutions innovantes. Forte d’une expérience en gestion de projet et en optimisation de processus, je conçois des applications performantes et adaptées aux besoins des utilisateurs.
 
-Le monde évolue rapidement et le monde du travail ne fait pas exception.
-C’est pour cette raison que je viens, après avoir travaillé 5 ans dans le secteur du textile, de suivre une formation de développeur et web mobile au sein de Human booster, Niveau 5 Bac +2. 
+👩 Ancienne développeuse produit textile, j’ai découvert une passion pour l’informatisation et l’optimisation des processus. En tant que cheffe de produit, j'ai digitalisé des systèmes de production et optimisé des processus manuels.
 
-## Mon objectif ?  
+Ma dernière expérience, où je n'ai pas pu mettre en place le système d'informatisation de la gamme produit, m'a permis de prendre conscience que ma véritable vocation se trouve derrière un ordinateur, à développer et améliorer des systèmes pour rendre les opérations plus fluides et efficaces.
+
+💡Ce que je vous apporte grâce à mes expériences : 
+
+- Développement full-stack : Expertise en Java, Angular, Spring Boot, Hibernate, Maven, Junit, SQL, et outils front-end , RxJs, Ajax, Jquery, Javascript, HTML/CSS, SCSS, Bootstrap
+
+- Qualité et optimisation : Gestion des tickets, rédaction de tests unitaires, et revues de code collaboratives pour garantir des applications performantes
+
+- Gestion de projet et optimisation : Coordination de projets, digitalisation de workflows, et amélioration des processus pour plus d’efficacité
+
+- Aisance relationnelle : Interaction avec des équipes variées et partenaires internationaux, favorisant une communication fluide et adaptée aux besoins métier
+
+-Créativité et organisation : Conception de solutions sur mesure et organisation d’initiatives stratégiques pour répondre aux attentes des utilisateurs
+
+🌼 Mes valeurs :
+- Rigueur et précision 
+- Créativité et innovation 
+- Engagement durable (Green IT) 
+
+❤️ En dehors du code :
+Passionnée de couture, dessin vectoriel et randonnée, je trouve de l’inspiration dans la nature et l’art pour nourrir ma créativité
+
+Envie de collaborer avec une développeuse engagée et méthodique ? 🐝
+Contactez moi sur LinkedIn 🙂
  
-C'est de pouvoir travailler de ma passion qui m'anime chaque jour, pour une moyenne entreprise qui intègre le développement durable dans ça politique d'entreprise <img alt="chikorita pokemon" title="chikorita pokemon" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643517236/32748/chikorita.gif?1643517236" width= "20"> , ainsi que des valeurs telles que la communication, l'entraide mais aussi prendre en compte le savoir être. 
+## Compétences Techniques :
+### Front-end  
+- Technologies : Angular, Rxjs,  Javascript, Jquery, Prime NG, FullCalendar, D3Js, Ajax
+- Intégration : HTML5, CSS3, SCSS, Bootstrap, Ionic
+- Maquettage & Design : Figma, Pencil, ILLustrator, Wordpress
 
-## Mes valeurs importantes 
+### Back-end :
+- Tehcnologies : Java, J2EE, Maven, JSP, Spring, SpringBoot, Jpa, Junit, Hivernate
+- Base de données : SQL ( Oracle, PostgreSQL, MySQL), Liquibase
+- API : Déploiement et gestion d'API REST
 
-- Le savoir être
-- La communication
-- L’entraide.
+## Outil / Logiciel / Ide :
+- Docker, Sonar, Postman, Swagger, Jira, Confluence, Vscode, Intellij, Eclipse
 
-*Dans le cadre de ma formation je cherche un stage du 17 Juillet au 13 Septembre 2023.*
-*Envie d'en savoir davantage sur moi ? Je reste connectée pour en discuter, échanger 🙂* 
-
-## Mes projets : 
-https://recrute1developpeur.github.io/
-
-https://grisez.alwaysdata.net/cooking/index.html
- 
-## Langages 
-
-<img alt="html5" title="html5" loading="lazy" src=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg /><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg /><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg />
-<img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/angular/angular-ar21.svg /><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/php/php-horizontal.svg /><img alt="css" title="css" loading="lazy" src=https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg /><img alt="figma" title="figma" loading="figma" src=https://www.vectorlogo.zone/logos/figma/figma-ar21.svg /><img alt="sql" title="sql" loading="sql" src=https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg width = 6% />
+## Autres : 
+- Git (Github / GitLab), méthode agile, cycle en V
 
 ## Détails  
 
