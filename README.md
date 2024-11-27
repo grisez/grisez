@@ -2,32 +2,31 @@
 Moi c'est Cindy Grisez, je suis développeuse Java Angular
 
 ## Info  
-Développeuse applicative Java/Angular, à l’image de l’abeille 🐝 : méthodique, collaborative et toujours en quête de solutions innovantes. Forte d’une expérience en gestion de projet et en optimisation de processus, je conçois des applications performantes et adaptées aux besoins des utilisateurs.
+🐝 Plus qu’une simple développeuse Java/Angular , je me distingue par ma capacité à comprendre les besoins métier et à les traduire en solutions concrètes et performantes.
 
-👩 Ancienne développeuse produit textile, j’ai découvert une passion pour l’informatisation et l’optimisation des processus. En tant que cheffe de produit, j'ai digitalisé des systèmes de production et optimisé des processus manuels.
+👩 Un parcours axé sur la digitalisation et la compréhension des besoins
+Dans le domaine du textile, j’ai développé une solide capacité à comprendre les besoins initiaux et à y répondre avec des solutions techniques adaptées. J’ai optimisé des processus en digitalisant la création de dossiers techniques et de patronnages via des outils CAO/DAO, améliorant ainsi l’efficacité et réduisant les erreurs.
+Cette expérience a renforcé ma passion pour la digitalisation des processus, me menant naturellement vers le développement applicatif. Aujourd’hui, je conçois des solutions numériques pour répondre à vos besoins métiers et optimiser leur performance.
 
-Lors de ma dernière expérience dans le domaine textile, avant de m’orienter vers le développement applicatif, je n’ai pas pu mettre en place le système d’informatisation de la gamme produit, comme cela était initialement prévu. Cette situation m’a amenée à réfléchir sur ce que j’aimais réellement dans mon travail, et j’ai réalisé que ma véritable passion réside dans la création et l’amélioration de systèmes informatiques, en étant directement derrière un ordinateur pour concevoir des solutions efficaces et innovantes.
+💡 Ce que je vous apporte grâce à mes expériences :
 
-💡Ce que je vous apporte grâce à mes expériences : 
+- Analyse et conception : Comprendre vos besoins métier pour concevoir des solutions sur mesure, alliant créativité et efficacité.
 
-- Développement full-stack : Expertise en Java, Angular, Spring Boot, Hibernate, Maven, Junit, SQL, et outils front-end , RxJs, Ajax, Jquery, Javascript, HTML/CSS, SCSS, Bootstrap
+- Techniques : Maîtrise des technologies front-end (Angular, HTML, CSS) et back-end (Java, API REST) ainsi que des outils modernes (Docker, Git) dans un environnement Agile.
 
-- Qualité et optimisation : Gestion des tickets, rédaction de tests unitaires, et revues de code collaboratives pour garantir des applications performantes
+- Qualité et fiabilité : Garantir des applications performantes via des tests unitaires, des optimisations de code et une documentation rigoureuse.
 
-- Gestion de projet et optimisation : Coordination de projets, digitalisation de workflows, et amélioration des processus pour plus d’efficacité
+- Gestion de projet : Coordination et suivi de projets avec une approche orientée résultats et amélioration continue.
 
-- Aisance relationnelle : Interaction avec des équipes variées et partenaires internationaux, favorisant une communication fluide et adaptée aux besoins métier
-
-- Créativité et organisation : Conception de solutions sur mesure et organisation d’initiatives stratégiques pour répondre aux attentes des utilisateurs
+- Aisance relationnelle : Capacité à collaborer avec des équipes variées et des partenaires internationaux, pour une communication fluide et des livrables alignés avec les attentes métier.
 
 🌼 Mes valeurs :
-- Rigueur et précision 
-- Créativité et innovation 
-- Engagement durable (Green IT) 
+Rigueur, innovation, et engagement durable (Green IT).
 
 ❤️ En dehors du code :
-Passionnée de couture, dessin vectoriel et randonnée, je trouve de l’inspiration dans la nature et l’art pour nourrir ma créativité
+Passionnée de couture et de dessin vectoriel, je m’inspire de la nature et de l’art pour nourrir ma créativité et ma capacité d’innovation.
 
+👉 Envie de collaborer avec une développeuse à l’écoute des besoins métier et engagée dans la réussite de vos projets ? Contactez-moi directement ici !
 
 ## Compétences Techniques :
 ### Front-end  
