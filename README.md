@@ -2,7 +2,7 @@
 Moi c'est Cindy Grisez, je suis développeuse Java Angular
 
 ## Info  
-🐝 Plus qu’une simple développeuse Java/Angular , je me distingue par ma capacité à comprendre les besoins métier et à les traduire en solutions concrètes et performantes.
+Plus qu’une simple développeuse Java/Angular , je me distingue par ma capacité à comprendre les besoins métier et à les traduire en solutions concrètes et performantes.
 
 👩 Un parcours axé sur la digitalisation et la compréhension des besoins
 Dans le domaine du textile, j’ai développé une solide capacité à comprendre les besoins initiaux et à y répondre avec des solutions techniques adaptées. J’ai optimisé des processus en digitalisant la création de dossiers techniques et de patronnages via des outils CAO/DAO, améliorant ainsi l’efficacité et réduisant les erreurs.
